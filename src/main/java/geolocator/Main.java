@@ -11,5 +11,4 @@ public class Main {
         GeoLocation geoLocation = args.length == 0 ? geoLocator.getGeoLocation() : geoLocator.getGeoLocation(args[0]);
         System.out.println(geoLocation);
     }
-
 }
