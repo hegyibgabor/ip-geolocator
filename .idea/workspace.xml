@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52328cde-2ec7-456e-92e9-5f74d5db328f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/geolocator/GeoLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geolocator/GeoLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geolocator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geolocator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/geolocator/GeoLocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geolocator/GeoLocation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ip-geolocator-1.0-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ip-geolocator-1.0-shaded.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ip-geolocator-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ip-geolocator-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/original-ip-geolocator-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-ip-geolocator-1.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
